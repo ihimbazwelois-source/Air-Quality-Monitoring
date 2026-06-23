@@ -1,6 +1,6 @@
 # Air Quality Monitoring and Alert System
 
-## 📋 Overview
+## 📋 Introduction
 
 The **Air Quality Monitoring and Alert System** is designed to help people easily track the cleanliness and safety of the air in their surroundings. This comprehensive system provides real-time monitoring of air pollution levels, temperature, and humidity across multiple locations.
 
@@ -78,29 +78,6 @@ Air-Quality-Monitoring/
 
 5. **Deploy frontend** - Launch the dashboard from `/frontend`
 
-## 📚 Documentation
 
-For detailed information, please refer to:
-- [Hardware Setup Guide](./docs/HARDWARE_SETUP.md)
-- [API Documentation](./docs/API.md)
-- [Installation Guide](./docs/INSTALLATION.md)
-- [User Manual](./docs/USER_MANUAL.md)
 
-## 🤝 Contributing
 
-Contributions are welcome! Please:
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request with detailed description
-
-## 📄 License
-
-[Add your license here]
-
-## 📧 Contact & Support
-
-For questions or support, please create an issue in the repository or contact the maintainers.
-
----
-
-**Last Updated**: 2026-06-23
