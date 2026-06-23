@@ -31,6 +31,4 @@ The circuit diagram illustrates:
 4. **Output Stage** - Alert mechanisms and data transmission
 5. **Power Management** - Voltage regulation and battery management
 
----
 
-**Note**: The actual circuit diagram image file should be stored in this directory for reference and documentation purposes.
