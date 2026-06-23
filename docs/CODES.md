@@ -1,11 +1,5 @@
 # Smart Air Quality Monitoring System - Source Code
 
-## Overview
-
-This page contains the source code for the Smart Air Quality Monitoring System. The system uses an ESP32 microcontroller to collect sensor data and transmit it to Adafruit IO for cloud-based monitoring.
-
----
-
 ## Main Arduino/ESP32 Firmware
 
 The main firmware handles:
@@ -183,18 +177,7 @@ Update the following in the code:
 3. Choose correct COM port
 4. Click Upload
 
----
 
-## Data Format
-
-The sensor module sends data in this format:
-```
-CO2=450;PM=25.5;TEMP=28.3;HUM=65.2;
-```
-
-The code parses each value and publishes to Adafruit IO.
-
----
 
 ## Troubleshooting
 
@@ -205,6 +188,4 @@ The code parses each value and publishes to Adafruit IO.
 | No sensor data | Check Serial2 connections and sensor module |
 | Data not updating | Ensure sensor module is sending data correctly |
 
----
 
-**For more help, contact us using the information on the [Contact Page](CONTACT.md)**
