@@ -4,7 +4,7 @@
 
 We used **Proteus** to draw the schematic circuit diagram for our Smart Air Quality Monitoring System.
 
-![Circuit Schematic Diagram]
+![Circuit Schematic Diagram](circuit_schematic.jpg)
 
 ### Circuit Design Overview
 
@@ -31,4 +31,6 @@ The circuit diagram illustrates:
 4. **Output Stage** - Alert mechanisms and data transmission
 5. **Power Management** - Voltage regulation and battery management
 
+---
 
+**Note**: The actual circuit diagram image file should be stored in this directory for reference and documentation purposes.
