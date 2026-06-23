@@ -42,17 +42,7 @@ Air quality is a critical factor affecting public health. This system enables:
 - ✅ User-friendly web dashboard
 - ✅ Responsive design for mobile and desktop
 
-## Project Structure
 
-```
-Air-Quality-Monitoring/
-├── README.md                 # Project documentation
-├── hardware/                 # Sensor hardware designs
-├── firmware/                 # Microcontroller firmware
-├── backend/                  # Server and database code
-├── frontend/                 # Web dashboard interface
-└── docs/                     # Additional documentation
-```
 
 
 
