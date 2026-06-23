@@ -4,7 +4,7 @@
 
 This image shows the **hardware connections** of our Smart Air Quality Monitoring System prototype:
 
-![Hardware Connections Setup](hardware_connections.jpg)
+![Hardware Connections Setup](hardware_connections.jpeg)
 
 ### Components Visible:
 
@@ -55,4 +55,14 @@ Relay Module → Digital Output (Microcontroller)
 Alert/Output System
 ```
 
+### Key Features of This Setup:
 
+✅ **Modular Design** - Easy to add or remove components
+✅ **Prototype Testing** - Breadboard allows for quick modifications
+✅ **Wireless Capable** - ESP8266/NodeMCU has built-in WiFi
+✅ **Real-time Monitoring** - Direct sensor input to microcontroller
+✅ **Alert System** - Relay activation on threshold detection
+
+---
+
+**Note**: This is a prototype/testing setup. The production version will be PCB-mounted and integrated into a single enclosure for deployment.
