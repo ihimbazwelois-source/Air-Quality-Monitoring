@@ -4,6 +4,8 @@
 
 This image shows the **hardware connections** of our Smart Air Quality Monitoring System prototype:
 
+![Hardware Connections Setup](hardware_connections.jpg)
+
 ### Components Visible:
 
 1. **ESP8266 or NodeMCU Microcontroller** (top right board)
@@ -64,4 +66,3 @@ Alert/Output System
 ---
 
 **Note**: This is a prototype/testing setup. The production version will be PCB-mounted and integrated into a single enclosure for deployment.
-
